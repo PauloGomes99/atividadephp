@@ -1,6 +1,6 @@
 <?php
 
-$n = $_POST;
+$n = $_POST ['n'];
 $r = $_POST;
 $r = $n+2*2;
 
