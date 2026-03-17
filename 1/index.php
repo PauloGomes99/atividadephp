@@ -6,7 +6,7 @@
     <title>Document</title>
  </head>
  <body>
-    <form action="1nome.php" method="post">
+    <form action="ex1.php" method="post">
 
 
 <label for="">Insira seu Nome</label>
