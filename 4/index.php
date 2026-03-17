@@ -10,7 +10,7 @@
 
 
 <label for="">Cº</label>
-<input type="text" name="C">    
+<input type="text" name="c">    
 <input type="submit" value="Enviar">
 <input type="reset" value="Limpar">
     </form>
