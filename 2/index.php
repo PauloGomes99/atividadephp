@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="2soma.php" method="post">
+    <form action="ex2.php" method="post">
         <label for="">Valor1</label>
 <input type="text" name="Valor1" id=""><br>
 <label for="">Valor2</label>
