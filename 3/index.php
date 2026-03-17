@@ -6,9 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="resultado.php" method="post">
+    <form action="ex3.php" method="post">
         <label for="">Nota1</label>
-<input type="text" name="Nota1" id=""><br>
+<input type="text" name="N1" id=""><br>
 <label for="">Nota2</label>
 <input type="text" name="Nota2" id="">
 <label for="">Nota3</label>
