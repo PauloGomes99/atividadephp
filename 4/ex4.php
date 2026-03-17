@@ -1,6 +1,6 @@
 <?php
 
-$c = $_POST ;
+$c = $_POST ['c'];
 
 
 
