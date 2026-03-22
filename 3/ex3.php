@@ -9,10 +9,9 @@ $final = $media;
 
 echo "O aluno está:".$final;
 
-if {($final>=7)
-"Aprovado"};
+if ($final>=7){
+echo "Aprovado"};
 
-else {($final<=7)
-"Reprovado"};
+else { echo "Reprovado"};
    
 ?>
