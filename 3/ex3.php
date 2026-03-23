@@ -6,10 +6,10 @@ $Nota3 = $_POST ["Nota3"];
 $media = ($Nota1+$Nota2+$Nota3)/3;
 
 if ($media>=7){
-echo "Aprovado";}
+echo "Aprovado:";}
 
 else  { 
     
-echo "Reprovado";}
+echo "Reprovado:";}
    
 ?>
